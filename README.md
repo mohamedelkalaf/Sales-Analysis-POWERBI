@@ -1,5 +1,7 @@
 📊 Sales Performance Analysis Dashboard
+
 📝 Overview
+
 This project focuses on analyzing and visualizing sales performance data for a company.
 Using Power BI, we created an interactive dashboard that provides insights into sales, profit, expenses, and employee performance across different states and time periods.
 
